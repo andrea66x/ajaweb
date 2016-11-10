@@ -1,0 +1,37 @@
+
+.foto{
+	padding-top: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+	display: inline-block; 
+	}
+
+.aja{
+   text-align: center;
+  }
+
+.equipo{
+   padding-top:90px;
+  }
+  
+h4{
+   text-align: center;
+   font-style:normal; 
+    font-family:"Algerian"; 
+    font-size:13px;
+   
+
+  
+}
+
+h5{
+   text-align: center;
+   font-style:normal; 
+    font-family:"Times New Romans";
+     font-size:14px;
+
+}
+
+#aja1{
+   text-align: center;
+  }
